@@ -1,4 +1,4 @@
-# Conector serverless sencillo para IBM Watson y Facebook Messenger
+# Virtual insurance assitant using Watson AI of IBM Cloud
 > For english instructions click [English](README_EN.md)
 
 > Presentación [APIS de Watson](https://ibm.box.com/v/watson-apis-ppt)
